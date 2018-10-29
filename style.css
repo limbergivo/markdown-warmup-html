@@ -1,17 +1,16 @@
 body{
+  font-family: Arial, Helvetica, sans-serif;
   background-color:#323532;
   color: #EFEDDC;
 }
 
 h1{
-  font-family: Arial, Helvetica, sans-serif;
   padding-left: 5px;
   border: 5px solid #4A7EAD;
   border-radius:10px;
 }
 
 p{
-  font-family: Arial, Helvetica, sans-serif;
   padding-left: 20px;
 }
 
@@ -23,7 +22,6 @@ a{
 
 
 h2{
-  font-family: Arial, Helvetica, sans-serif;
   padding-left: 5px;
   border:5px solid #4A7EAD;
   border-radius:10px;
